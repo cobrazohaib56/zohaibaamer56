@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cobrazohaib
 - 👀 I’m interested in ... Programming/Coding, Artificial Intelligence, Data Science, Big Data
-- 🌱 I’m currently learning ... Computer Networking, Advanced Programming
+- 🌱 I’m currently learning ... Artificial Intelligence, Android Development
 - 💞️ I’m looking to collaborate on ... Google
 - 📫 How to reach me ... https://www.instagram.com/cobrazohaib/
  
